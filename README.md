@@ -1,2 +1,1 @@
-# HTML-CSS
-The Net Ninja inspired website.
+Suhasini's Kitchen Sample Site (Project for #HTML-CSS)
